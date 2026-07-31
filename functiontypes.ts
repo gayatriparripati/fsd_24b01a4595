@@ -10,7 +10,7 @@ console.log(add(a, b));
 
 // FUNCTION WITH NO RETURN TYPE
 function greet(name: string): void {
-    console.log("Hello " + name);
+    console.log("Hi " + name);
 }
 
 let Username = "gayatri";
